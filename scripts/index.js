@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'May 12, 2020',
-  name: 'Putul Bou'
+  birthdate: 'June 14, 2020',
+  name: 'Adhora Projapati, Rahir Ex 😍😜 '
 };
 
 function hideEverything() {
