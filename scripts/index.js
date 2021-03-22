@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'June 14, 2020',
-  name: 'Adhora😍 '
+  birthdate: 'March 22, 2021',
+  name: '"মুড়ির টিন(রিমি)"😍 '
 };
 
 function hideEverything() {
