@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'March 22, 2021',
-  name: '"মুড়ির টিন(রিমি)"😍 '
+  name: 'MurirTin (Rimi) '
 };
 
 function hideEverything() {
